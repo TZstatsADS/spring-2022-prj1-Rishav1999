@@ -1,4 +1,4 @@
-# Applied Data Science @ Columbia
+# Applied Data Science @ Columbia - Rishav Agarwal
 ## Fall 2021
 ## Project 1: A "data story" on the history of philosophy
 
