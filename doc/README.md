@@ -2,4 +2,6 @@
 
 ### Doc folder
 
-The doc directory contains the report or presentation files. It can have subfolders.  
+- The Presentation file in HTML format is present in this folder.
+- It is knitted from the Jupyter Notebook
+- The Images in the page follows the folder structure, hence, it should be opened following the same folder structure as given by this project
